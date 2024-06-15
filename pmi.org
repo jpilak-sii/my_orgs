@@ -1,27 +1,25 @@
 #+title: PMI
 #+author: Jonatan Pilak
 
-* MTGs
-** DONE PoC - SFTP: kick-off
-    SCHEDULED: <2024-06-13 Thu>
- :LOGBOOK:
- CLOCK: [2024-06-13 Thu 15:00]--[2024-06-13 Thu 15:30] => 0:30
- :END:
-** DONE [TGK SFTP POC] org
-    SCHEDULED: <2024-06-14 Fri>
- :LOGBOOK:
- CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
- :END:
-* TASKS
-** TODO Setting up pmi ms account
-    :LOGBOOK:
-    CLOCK: [2024-06-13 Thu 18:00]--[2024-06-13 Thu 18:41] => 0:41
-    CLOCK: [2024-06-14 Fri 09:00]--[2024-06-14 Fri 09:45] => 0:45
-    CLOCK: [2024-06-14 Fri 15:00]--[2024-06-14 Fri 16:45] => 1:45
-    :END:
-    - [x] Login
-    - [x] set MFA
-    - [x] check if all works: jira,bb,conflu,deep,aws,tf
-    - [-] fight with not working teams
-    -
- 
+* DONE PoC - SFTP: kick-off :mtg:
+   SCHEDULED: <2024-06-13 Thu>
+:LOGBOOK:
+CLOCK: [2024-06-13 Thu 15:00]--[2024-06-13 Thu 15:30] => 0:30
+:END:
+* DONE [TGK SFTP POC] org :mtg:
+   SCHEDULED: <2024-06-14 Fri>
+:LOGBOOK:
+CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
+:END:
+* TODO Setting up pmi ms account :task:
+   :LOGBOOK:
+   CLOCK: [2024-06-13 Thu 18:00]--[2024-06-13 Thu 18:41] => 0:41
+   CLOCK: [2024-06-14 Fri 09:00]--[2024-06-14 Fri 09:45] => 0:45
+   CLOCK: [2024-06-14 Fri 15:00]--[2024-06-14 Fri 16:45] => 1:45
+   :END:
+   - [x] Login
+   - [x] set MFA
+   - [x] check if all works: jira,bb,conflu,deep,aws,tf
+   - [-] fight with not working teams
+   -
+

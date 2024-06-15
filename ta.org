@@ -2,15 +2,15 @@
 #+title: Technical Assesments
 #+author: Jonatan Pilak
 
-* DONE Łukasz Wojnowski
+* DONE Łukasz Wojnowski :ta:in_cc:
    SCHEDULED: <2024-05-31 Fri>
    :LOGBOOK:
    CLOCK: [2024-05-31 Fri 09:00]--[2024-05-31 Fri 10:35] => 1:35
    :END:
 
-* TODO Ciszewski Patryk
+* TODO Ciszewski Patryk :ta:out_cc:
    SCHEDULED: <2024-06-18 Tue>
 
-* TODO Kamil Sochacki
+* TODO Kamil Sochacki :ta:out_cc:
    SCHEDULED: <2024-06-20 Thu>
 
