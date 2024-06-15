@@ -1,7 +1,19 @@
 * TODO Onboarding
-  :LOGBOOK:
+** DONE organisational mtg
+ :LOGBOOK:
+  CLOCK: [2024-06-13 Thu 15:00]--[2024-06-13 Thu 15:30] => 0:02
+  :END:
+** TODO Setting up pmi ms account
+
+ :LOGBOOK:
   CLOCK: [2024-06-15 Sat 20:59]--[2024-06-15 Sat 21:01] => 0:02
   CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
   :END:
 
+
+2024-06-13T15:00 - 2024-06-13T15:30 - org mtg
+2024-06-13T18:00 - 2024-06-13T18:45 - setting up pmi ms account
+2024-06-14T09:00 - 2024-06-14T09:30 - setting up pmi ms account
+2024-06-14T11:15 - 2024-06-14T12:15 - [TGK SFTP POC] org @ teams
+2024-06-14T15:00 - 2024-06-14T16:30 - fighting with teams
 
