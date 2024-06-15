@@ -1,0 +1,5 @@
+#+title: Projects
+#+author: Jonatan Pilak
+
+* [[file:./pmi.org][PMI]]
+* [[file:./ta.org][Technical Assesments]]
