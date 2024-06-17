@@ -21,7 +21,8 @@ CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
    - [x] set MFA
    - [x] check if all works: jira,bb,conflu,deep,aws,tf
    - [-] fight with not working teams
-   -
+   - 
 
+* Reporting
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
 #+END:
