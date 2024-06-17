@@ -6,7 +6,7 @@
 :LOGBOOK:
 CLOCK: [2024-06-13 Thu 15:00]--[2024-06-13 Thu 15:30] => 0:30
 :END:
-* DONE [TGK SFTP POC] org :mtg:
+* DONE [TGK SFTP POC] org                                               :mtg:
    SCHEDULED: <2024-06-14 Fri>
 :LOGBOOK:
 CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
@@ -23,3 +23,5 @@ CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
    - [-] fight with not working teams
    -
 
+#+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
+#+END:
