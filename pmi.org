@@ -22,7 +22,8 @@ CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
    - [x] set MFA
    - [x] check if all works: jira,bb,conflu,deep,aws,tf
    - [-] fight with not working teams
-   - [x] setup aws
+   - [x] setup aws cli
+   - [-] terraform
 
 * DONE [TGK SFTP POC] catch-up                                          :mtg:
 SCHEDULED: <2024-06-17 Mon>
@@ -35,6 +36,15 @@ CLOCK: [2024-06-17 Mon 15:00]--[2024-06-17 Mon 15:17] =>  0:05
    CLOCK: [2024-06-17 Mon 20:36]--[2024-06-17 Mon 22:00] =>  1:24
    :END:
 
+* TODO PBF-9917	CloudWatch Dashboard                                   :task:
+:LOGBOOK:
+CLOCK: [2024-06-18 Tue 09:58]--[2024-06-18 Tue 11:48] =>  1:50
+:END:
+
+* TODO PBF-9920 Transfer Family service configuration                  :task:
+:LOGBOOK:
+CLOCK: [2024-06-18 Tue 11:48]--[2024-06-18 Tue 13:07] =>  1:19
+:END:
 * Reporting                                                          :report:
 ** Last week
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
