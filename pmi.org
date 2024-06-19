@@ -38,6 +38,9 @@ CLOCK: [2024-06-17 Mon 15:00]--[2024-06-17 Mon 15:17] =>  0:05
 
 * TODO PBF-9917	CloudWatch Dashboard                                   :task:
 :LOGBOOK:
+CLOCK: [2024-06-19 Wed 20:26]--[2024-06-19 Wed 22:23] =>  1:57
+CLOCK: [2024-06-19 Wed 09:58]--[2024-06-19 Wed 10:43] =>  0:45
+CLOCK: [2024-06-19 Wed 08:50]--[2024-06-19 Wed 09:30] =>  0:40
 CLOCK: [2024-06-18 Tue 09:58]--[2024-06-18 Tue 11:48] =>  1:50
 :END:
 
@@ -45,11 +48,19 @@ CLOCK: [2024-06-18 Tue 09:58]--[2024-06-18 Tue 11:48] =>  1:50
 :LOGBOOK:
 CLOCK: [2024-06-18 Tue 11:48]--[2024-06-18 Tue 13:07] =>  1:19
 :END:
+
+* DONE [TGK SFTP POC] Monitoring & Transfer Family                      :mtg:
+SCHEDULED: <2024-06-19 Wed>
+:LOGBOOK:
+CLOCK: [2024-06-19 Wed 09:30]--[2024-06-19 Wed 09:51] =>  0:21
+:END:
+
+* TODO [TGK SFTP POC] Monitoring & Transfer Family: follow-up           :mtg:
+SCHEDULED: <2024-06-20 Thu>
 * Reporting                                                          :report:
 ** Last week
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
 #+END:
 ** This week
 #+BEGIN: clocktable :step day :block thisweek :compact t
-
 #+END:
