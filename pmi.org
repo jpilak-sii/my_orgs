@@ -55,8 +55,11 @@ SCHEDULED: <2024-06-19 Wed>
 CLOCK: [2024-06-19 Wed 09:30]--[2024-06-19 Wed 09:51] =>  0:21
 :END:
 
-* TODO [TGK SFTP POC] Monitoring & Transfer Family: follow-up           :mtg:
+* DONE [TGK SFTP POC] Monitoring & Transfer Family: follow-up           :mtg:
 SCHEDULED: <2024-06-20 Thu>
+:LOGBOOK:
+CLOCK: [2024-06-20 Thu 09:30]--[2024-06-20 Thu 10:43] =>  1:13
+:END:
 * Reporting                                                          :report:
 ** Last week
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
