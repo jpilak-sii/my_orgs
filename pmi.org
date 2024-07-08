@@ -13,7 +13,8 @@ CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
 :END:
 * TODO Setting up pmi ms account                                       :task:
    :LOGBOOK:
-   CLOCK: [2024-06-17 Mon 14:53]--[2024-06-17 Mon 16:29] =>  1:36
+   CLOCK: [2024-07-08 Mon 15:43]--[2024-07-08 Mon 16:16] =>  0:33
+   CLOCK: [2024-06-17 Mon 14:53]--[2024-06-17 Mon 16:29] => 1:36
    CLOCK: [2024-06-13 Thu 18:00]--[2024-06-13 Thu 18:41] => 0:41
    CLOCK: [2024-06-14 Fri 09:00]--[2024-06-14 Fri 09:45] => 0:45
    CLOCK: [2024-06-14 Fri 15:00]--[2024-06-14 Fri 16:45] => 1:45
@@ -65,58 +66,18 @@ CLOCK: [2024-06-21 Fri 16:35]--[2024-06-21 Fri 16:56] =>  0:21
 CLOCK: [2024-06-21 Fri 09:20]--[2024-06-21 Fri 10:12] =>  0:52
 CLOCK: [2024-06-20 Thu 09:30]--[2024-06-20 Thu 10:43] =>  1:13
 :END:
+
+* TODO Architecture design                                             :task:
+:LOGBOOK:
+CLOCK: [2024-07-08 Mon 21:51]--[2024-07-08 Mon 23:10] =>  1:19
+:END:
+
+* TODO [TGK SFTP POC] Backlog refinement & prioritization               :mtg:
+SCHEDULED: <2024-07-09 Tue>
 * Reporting                                                          :report:
 ** Last week
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
 #+END:
 ** This week
 #+BEGIN: clocktable :step day :block thisweek :compact t
-
-Daily report: [2024-06-17 Mon]
-| Headline                        |   Time |
-|---------------------------------+--------|
-| *Total time*                    | *3:17* |
-|---------------------------------+--------|
-| Setting up pmi ms account       |   1:36 |
-| [TGK SFTP POC] catch-up         |   0:17 |
-| Recreate AWS resources manually |   1:24 |
-
-Daily report: [2024-06-18 Tue]
-| Headline                             |   Time |
-|--------------------------------------+--------|
-| *Total time*                         | *3:09* |
-|--------------------------------------+--------|
-| PBF-9917	CloudWatch Dashboard |   1:50 |
-| PBF-9920 Transfer Family service...  |   1:19 |
-
-Daily report: [2024-06-19 Wed]
-| Headline                                |   Time |
-|-----------------------------------------+--------|
-| *Total time*                            | *3:43* |
-|-----------------------------------------+--------|
-| PBF-9917	CloudWatch Dashboard    |   3:22 |
-| [TGK SFTP POC] Monitoring & Transfer... |   0:21 |
-
-Daily report: [2024-06-20 Thu]
-| Headline                                |   Time |
-|-----------------------------------------+--------|
-| *Total time*                            | *3:36* |
-|-----------------------------------------+--------|
-| PBF-9920 Transfer Family service...     |   2:23 |
-| [TGK SFTP POC] Monitoring & Transfer... |   1:13 |
-
-Daily report: [2024-06-21 Fri]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
-
-Daily report: [2024-06-22 Sat]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
-
-Daily report: [2024-06-23 Sun]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
 #+END:
