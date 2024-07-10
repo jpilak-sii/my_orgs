@@ -72,8 +72,22 @@ CLOCK: [2024-06-20 Thu 09:30]--[2024-06-20 Thu 10:43] =>  1:13
 CLOCK: [2024-07-08 Mon 21:51]--[2024-07-08 Mon 23:10] =>  1:19
 :END:
 
-* TODO [TGK SFTP POC] Backlog refinement & prioritization               :mtg:
+* DONE [TGK SFTP POC] Backlog refinement & prioritization               :mtg:
 SCHEDULED: <2024-07-09 Tue>
+:LOGBOOK:
+CLOCK: [2024-07-10 Wed 09:15]--[2024-07-10 Wed 09:42] =>  0:27
+:END:
+
+* DONE [TGK SFTP POC] API GW/ Home Dir                                  :mtg:
+SCHEDULED: <2024-07-10 Wed>
+:LOGBOOK:
+CLOCK: [2024-07-10 Wed 15:04]--[2024-07-10 Wed 15:35] =>  0:31
+:END:
+
+* TODO [TGK SFTP POC] CloudWatch Dashbord                               :mtg:
+SCHEDULED: <2024-07-11 Thu>
+* TODO [TGK SFTP POC] AWS service cost - OB25                           :mtg:
+SCHEDULED: <2024-07-12 Fri>
 * Reporting                                                          :report:
 ** Last week
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
