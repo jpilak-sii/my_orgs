@@ -85,10 +85,16 @@ SCHEDULED: <2024-07-10 Wed>
 CLOCK: [2024-07-10 Wed 15:04]--[2024-07-10 Wed 15:35] =>  0:31
 :END:
 
-* TODO [TGK SFTP POC] CloudWatch Dashbord                               :mtg:
-SCHEDULED: <2024-07-11 Thu>
-* TODO [TGK SFTP POC] AWS service cost - OB25                           :mtg:
-SCHEDULED: <2024-07-12 Fri>
+* DONE [TGK SFTP POC] AWS service cost - OB25 & Dashboard
+Scheduled: <2024-07-12 Fri>
+:LOGBOOK:
+CLOCK: [2024-07-12 Fri 12:00]--[2024-07-12 Fri 13:17] =>  1:17
+:END:
+
+* TODO Migrate to different bucket                                     :task:
+:LOGBOOK:
+CLOCK: [2024-07-12 Fri 17:01]--[2024-07-12 Fri 17:35] =>  0:34
+:END:
 * Reporting                                                          :report:
 ** Last week
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
