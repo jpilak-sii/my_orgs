@@ -99,6 +99,7 @@ CLOCK: [2024-07-12 Fri 17:01]--[2024-07-12 Fri 17:35] =>  0:34
 :END:
 * TODO Pricing estimation                                              :task:
 :LOGBOOK:
+CLOCK: [2024-07-15 Mon 22:51]--[2024-07-15 Mon 23:06] =>  0:15
 CLOCK: [2024-07-11 Thu 15:02]--[2024-07-11 Thu 15:53] =>  0:51
 :END:
 * TODO PBF-10014 IAM custom policy & IAM custom roles                  :task:
@@ -110,7 +111,10 @@ CLOCK: [2024-07-15 Mon 13:05]--[2024-07-15 Mon 13:42] =>  0:37
 * TODO Save cloudwatch results                                         :task:
 * TODO [TGK SFTP POC] AWS service cost - OB25 / Dashboard /IAM          :mtg:
 SCHEDULED: <2024-07-16 Tue>
-* TODO Fix role permission                                             :task:
+* DONE Fix role permission                                             :task:
+:LOGBOOK:
+CLOCK: [2024-07-15 Mon 22:07]--[2024-07-15 Mon 22:49] =>  0:42
+:END:
 * Reporting                                                          :report:
 ** Last week
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
