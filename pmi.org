@@ -98,7 +98,7 @@ CLOCK: [2024-07-12 Fri 12:00]--[2024-07-12 Fri 13:17] =>  1:17
 CLOCK: [2024-07-15 Mon 11:19]--[2024-07-15 Mon 11:37] =>  0:18
 CLOCK: [2024-07-12 Fri 17:01]--[2024-07-12 Fri 17:35] =>  0:34
 :END:
-* TODO Pricing estimation                                              :task:
+* DONE Pricing estimation                                              :task:
 :LOGBOOK:
 CLOCK: [2024-07-15 Mon 22:51]--[2024-07-15 Mon 23:06] =>  0:15
 CLOCK: [2024-07-11 Thu 15:02]--[2024-07-11 Thu 15:53] =>  0:51
@@ -110,12 +110,16 @@ SCHEDULED: <2024-07-15 Mon>
 CLOCK: [2024-07-15 Mon 13:05]--[2024-07-15 Mon 13:42] =>  0:37
 :END:
 * TODO Save cloudwatch results                                         :task:
-* TODO [TGK SFTP POC] AWS service cost - OB25 / Dashboard /IAM          :mtg:
-SCHEDULED: <2024-07-16 Tue>
+* TODO [TGK SFTP POC] Review                                            :mtg:
+SCHEDULED: <2024-07-24 Wed>
 * DONE Fix role permission                                             :task:
 :LOGBOOK:
 CLOCK: [2024-07-16 Tue 10:32]--[2024-07-16 Tue 11:19] =>  0:47
 CLOCK: [2024-07-15 Mon 22:07]--[2024-07-15 Mon 22:49] =>  0:42
+:END:
+* TODO Jira checkout                                                 :review:
+:LOGBOOK:
+CLOCK: [2024-07-23 Tue 20:33]--[2024-07-23 Tue 21:56] =>  1:23
 :END:
 * Reporting                                                          :report:
 ** Last week
