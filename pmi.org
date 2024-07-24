@@ -103,17 +103,21 @@ CLOCK: [2024-07-12 Fri 17:01]--[2024-07-12 Fri 17:35] =>  0:34
 CLOCK: [2024-07-15 Mon 22:51]--[2024-07-15 Mon 23:06] =>  0:15
 CLOCK: [2024-07-11 Thu 15:02]--[2024-07-11 Thu 15:53] =>  0:51
 :END:
-* TODO PBF-10014 IAM custom policy & IAM custom roles                  :task:
+* DONE PBF-10014 IAM custom policy & IAM custom roles                  :task:
 * DONE [TGK SFTP POC] AWS service cost - OB25 / Dashboard /IAM          :mtg:
 SCHEDULED: <2024-07-15 Mon>
 :LOGBOOK:
 CLOCK: [2024-07-15 Mon 13:05]--[2024-07-15 Mon 13:42] =>  0:37
 :END:
 * TODO Save cloudwatch results                                         :task:
-* TODO [TGK SFTP POC] Review                                            :mtg:
+* DONE [TGK SFTP POC] Review                                            :mtg:
 SCHEDULED: <2024-07-24 Wed>
+:LOGBOOK:
+CLOCK: [2024-07-24 Wed 09:32]--[2024-07-24 Wed 10:14] =>  0:42
+:END:
 * DONE Fix role permission                                             :task:
 :LOGBOOK:
+CLOCK: [2024-07-24 Wed 21:40]--[2024-07-24 Wed 23:45] =>  2:05
 CLOCK: [2024-07-16 Tue 10:32]--[2024-07-16 Tue 11:19] =>  0:47
 CLOCK: [2024-07-15 Mon 22:07]--[2024-07-15 Mon 22:49] =>  0:42
 :END:
