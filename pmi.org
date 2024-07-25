@@ -13,6 +13,7 @@ CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
 :END:
 * TODO Setting up pmi ms account                                       :task:
    :LOGBOOK:
+   CLOCK: [2024-07-25 Thu 11:17]--[2024-07-25 Thu 11:46] =>  0:29
    CLOCK: [2024-07-08 Mon 15:43]--[2024-07-08 Mon 16:16] =>  0:33
    CLOCK: [2024-06-17 Mon 14:53]--[2024-06-17 Mon 16:29] => 1:36
    CLOCK: [2024-06-13 Thu 18:00]--[2024-06-13 Thu 18:41] => 0:41
@@ -22,7 +23,7 @@ CLOCK: [2024-06-14 Fri 11:15]--[2024-06-14 Fri 12:15] => 1:00
    - [x] Login
    - [x] set MFA
    - [x] check if all works: jira,bb,conflu,deep,aws,tf
-   - [-] fight with not working teams
+   - [x] fight with not working teams
    - [x] setup aws cli
    - [-] terraform
 
@@ -124,6 +125,10 @@ CLOCK: [2024-07-15 Mon 22:07]--[2024-07-15 Mon 22:49] =>  0:42
 * TODO Jira checkout                                                 :review:
 :LOGBOOK:
 CLOCK: [2024-07-23 Tue 20:33]--[2024-07-23 Tue 21:56] =>  1:23
+:END:
+* TODO Cloudwatch dashboard limit
+:LOGBOOK:
+CLOCK: [2024-07-25 Thu 22:36]--[2024-07-25 Thu 23:23] =>  0:47
 :END:
 * Reporting                                                          :report:
 ** Last week
