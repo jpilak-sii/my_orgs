@@ -138,6 +138,16 @@ CLOCK: [2024-07-29 Mon 21:15]--[2024-07-30 Tue 00:19] =>  3:04
 CLOCK: [2024-07-26 Fri 22:35]--[2024-07-26 Fri 22:52] =>  0:17
 CLOCK: [2024-07-25 Thu 22:36]--[2024-07-25 Thu 23:23] =>  0:47
 :END:
+* DONE Solution Outline & Headsup                                       :mtg:
+:LOGBOOK:
+CLOCK: [2024-08-05 Mon 09:00]--[2024-08-05 Mon 10:06] =>  1:06
+:END:
+* TODO TGK SFTP logs =>LCS                                              :mtg:
+SCHEDULED: <2024-08-05 Mon>
+:LOGBOOK:
+CLOCK: [2024-08-05 Mon 10:30]--[2024-08-05 Mon 10:52] =>  0:22
+:END:
+
 * Reporting                                                          :report:
 ** Last week
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
