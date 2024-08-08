@@ -129,10 +129,11 @@ CLOCK: [2024-07-15 Mon 22:07]--[2024-07-15 Mon 22:49] =>  0:42
 :END:
 * TODO Jira checkout                                                 :review:
 :LOGBOOK:
+CLOCK: [2024-08-08 Thu 22:11]--[2024-08-08 Thu 22:41] =>  0:30
 CLOCK: [2024-07-31 Wed 20:57]--[2024-07-31 Wed 23:54] =>  2:57
 CLOCK: [2024-07-23 Tue 20:33]--[2024-07-23 Tue 21:56] =>  1:23
 :END:
-* TODO Cloudwatch dashboard limit
+* DONE Cloudwatch dashboard limit
 :LOGBOOK:
 CLOCK: [2024-07-29 Mon 21:15]--[2024-07-30 Tue 00:19] =>  3:04
 CLOCK: [2024-07-26 Fri 22:35]--[2024-07-26 Fri 22:52] =>  0:17
@@ -147,7 +148,10 @@ SCHEDULED: <2024-08-05 Mon>
 :LOGBOOK:
 CLOCK: [2024-08-05 Mon 10:30]--[2024-08-05 Mon 10:52] =>  0:22
 :END:
-
+* TODO PBF-9935 Notification rules
+:LOGBOOK:
+CLOCK: [2024-08-08 Thu 22:41]--[2024-08-08 Thu 23:04] =>  0:23
+:END:
 * Reporting                                                          :report:
 ** Last week
 #+BEGIN: clocktable :step day :tstart "<-1w>" :tend "<now>" :compact t
